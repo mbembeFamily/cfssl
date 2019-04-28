@@ -86,6 +86,13 @@ certificate mentioned, it start up without the CA functionality enabled.
 
 ```
 cfssl serve
+
 ```
+Call it but jattle 
+If it doesn't follow  up with this than it should 
+V[$1] should be included. If is necessary 
+V[5] plugs this not that only this one 
+
+
 
 The endpoints for the server are described in `doc/api.txt`.
